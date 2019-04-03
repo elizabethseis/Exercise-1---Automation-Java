@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="45418" started-at="2019-03-12T22:29:49Z" finished-at="2019-03-12T22:30:34Z">
+  <suite name="Default suite" duration-ms="14766" started-at="2019-04-03T17:38:28Z" finished-at="2019-04-03T17:38:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="45418" started-at="2019-03-12T22:29:49Z" finished-at="2019-03-12T22:30:34Z">
+    <test name="Default test" duration-ms="14766" started-at="2019-04-03T17:38:28Z" finished-at="2019-04-03T17:38:43Z">
       <class name="TestAutomation.AutomationJava">
-        <test-method status="PASS" signature="OpenPage()[pri:0, instance:TestAutomation.AutomationJava@1810399e]" name="OpenPage" duration-ms="45399" started-at="2019-03-12T16:29:49Z" finished-at="2019-03-12T16:30:34Z">
+        <test-method status="PASS" signature="OpenPage()[pri:0, instance:TestAutomation.AutomationJava@215be6bb]" name="OpenPage" duration-ms="14746" started-at="2019-04-03T11:38:28Z" finished-at="2019-04-03T11:38:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenPage -->
